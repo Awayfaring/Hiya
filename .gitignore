@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Track only Python files
+!*.py
+
+# Ignore large/binary files
+*.pth
+*.wav
+*.pyc
